@@ -4,7 +4,7 @@
 <html>
 <body>
 
-<p> IRIS DATA WITH LINEAR DISCRIMINANT ANALYSIS : <a href="http://rpubs.com/ghorai77/518856" target="_blank" rel="noopener noreferrer">CLICK HERE</a></p>
+<p> IRIS DATA WITH PRINCIPAL COMPONENT ANALYSIS(PCA) : <a href="http://rpubs.com/ghorai77/518856" target="_blank" rel="noopener noreferrer">CLICK HERE</a></p>
 </body>
 </html>
 
