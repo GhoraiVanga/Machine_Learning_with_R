@@ -1,4 +1,4 @@
-# Machine_Learning_with_Dimensionality_Reduction_Techniques
+# Dimensionality_Reduction_Techniques
 
 <!DOCTYPE html>
 <html>
